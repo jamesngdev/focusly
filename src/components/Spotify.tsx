@@ -1,15 +1,17 @@
-import React, {useEffect} from 'react';
+import {useEffect} from 'react';
 
 const Spotify = () => {
     useEffect(() => {
-        window.onSpotifyIframeApiReady = (IFrameAPI) => {
+        // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+        // @ts-expect-error
+        window.onSpotifyIframeApiReady = (IFrameAPI: any) => {
             const element = document.getElementById('embed-iframe');
             const options = {
                 height: '250',
                 width: '270',
                 uri: 'spotify:episode:4GWzBIwldTzCNoUduU69eU'
             };
-            const callback = (EmbedController) => {
+            const callback = () => {
             };
             IFrameAPI.createController(element, options, callback);
         };

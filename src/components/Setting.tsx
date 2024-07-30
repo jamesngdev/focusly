@@ -9,7 +9,7 @@ import {Button} from "@/components/ui/button"
 import {Form, FormControl, FormField, FormItem, FormLabel, FormMessage,} from "@/components/ui/form"
 import {Input} from "@/components/ui/input"
 import {FiMaximize} from "react-icons/fi";
-import {openFullscreen, toggleFullScreen} from "@/lib/helpers.ts";
+import {toggleFullScreen} from "@/lib/helpers.ts";
 
 "use client"
 

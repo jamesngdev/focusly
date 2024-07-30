@@ -28,7 +28,7 @@ type Countdown = {
     reset: (time?: Time) => void
 }
 
-export {Countdown, Time}
+
 const calculateInitialTime = ({minutes, seconds}: Time): number => {
     const initialMinutes = minutes * 60 * 1000
     const initialSeconds = seconds * 1000

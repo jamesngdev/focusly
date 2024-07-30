@@ -1,6 +1,6 @@
 import {FaCloudRain, FaFire, FaMugHot, FaTree} from "react-icons/fa6";
 import {Slider} from "@/components/ui/slider.tsx";
-import {useEffect, useState} from "react";
+import {useState} from "react";
 import AudioPlayer from "@/components/AudioPlayer.tsx";
 import useClicked from "@/hooks/useClicked.ts";
 import classNames from 'classNames';
@@ -86,7 +86,6 @@ const Sound = () => {
     const [isOpen, setIsOpen] = useState(false)
 
 
-
     return (
         <div className="fixed top-5 right-5 z-50">
             <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center shadow-xl cursor-pointer"
@@ -99,7 +98,7 @@ const Sound = () => {
             })}>
                 <WorkSoundContent/>
 
-                <Spotify />
+                <Spotify/>
             </div>
         </div>
 

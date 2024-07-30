@@ -37,6 +37,7 @@ const Quizlet = () => {
 
         async function getQuizletCards(id: string) {
             // const res = await fetch(addProxy(`https://quizlet.com/webapi/3.4/studiable-item-documents?filters%5BstudiableContainerId%5D=${id}&filters%5BstudiableContainerType%5D=1&perPage=1000&page=1`)).then(res => res.json());
+            console.log(">> TODO", id)
 
             const cards = res.responses[0].models.studiableItem;
             const cardsData = cards.map((card: any) => {
