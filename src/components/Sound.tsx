@@ -3,8 +3,8 @@ import {Slider} from "@/components/ui/slider.tsx";
 import {useState} from "react";
 import AudioPlayer from "@/components/AudioPlayer.tsx";
 import useClicked from "@/hooks/useClicked.ts";
-import classNames from 'classNames';
 import Spotify from "@/components/Spotify.tsx";
+import {cn} from "@/lib/utils.ts";
 
 enum SoundName {
     Rain = 'Rain',
@@ -92,7 +92,7 @@ const Sound = () => {
                  onClick={() => setIsOpen(prev => !prev)}>
                 <FaMugHot/></div>
 
-            <div className={classNames('fixed top-20  z-50 w-[300px] right-5 bg-white p-4 rounded-lg transition-all', {
+            <div className={cn('fixed top-20  z-50 w-[300px] right-5 bg-white p-4 rounded-lg transition-all', {
                 'opacity-100': isOpen,
                 'opacity-0': !isOpen,
             })}>
