@@ -1,1 +1,1 @@
-export const QUIZLET_MEDIA_URL =  'https://quizlet.com'
+export const QUIZLET_MEDIA_URL = 'https://quizlet.com';

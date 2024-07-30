@@ -1,21 +1,29 @@
-import {useEffect, useState} from "react";
+import { useEffect, useState } from 'react';
 
 const useClicked = () => {
-    const [interacted, setInteracted] = useState(false);
+  const [interacted, setInteracted] = useState(false);
 
-    useEffect(() => {
-        document.body.addEventListener('click', () => {
-            setInteracted(true);
-        }, true);
+  useEffect(() => {
+    document.body.addEventListener(
+      'click',
+      () => {
+        setInteracted(true);
+      },
+      true
+    );
 
-        return () => {
-            document.body.removeEventListener('click', () => {
-                setInteracted(true);
-            }, true);
-        }
-    }, [])
+    return () => {
+      document.body.removeEventListener(
+        'click',
+        () => {
+          setInteracted(true);
+        },
+        true
+      );
+    };
+  }, []);
 
-    return interacted;
-}
+  return interacted;
+};
 
-export default useClicked
+export default useClicked;
