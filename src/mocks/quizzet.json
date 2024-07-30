@@ -1,0 +1,1478 @@
+{
+  "responses": [
+    {
+      "models": {
+        "studiableItem": [
+          {
+            "id": 1805732212170752,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 0,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "appropriates",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=YXBwcm9wcmlhdGVz&s=YWY3OTY4N2M",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=YXBwcm9wcmlhdGVz&s=YWY3OTY4N2M&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "th\u00edch h\u1ee3p",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170753,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 1,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "characteristics",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=Y2hhcmFjdGVyaXN0aWNz&s=MzE0MjI0MmY",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=Y2hhcmFjdGVyaXN0aWNz&s=MzE0MjI0MmY&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "ti\u00eau bi\u1ec3u, n\u00e9t \u0111\u1eb7 tr\u01b0ng, \u0111\u1eb7c \u0111i\u1ec3m",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170754,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 2,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "inadvertent",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=aW5hZHZlcnRlbnQ&s=NjMyZWFkZjQ",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=aW5hZHZlcnRlbnQ&s=NjMyZWFkZjQ&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "v\u00f4 \u00fd",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170755,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 3,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "intentional deletion",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=aW50ZW50aW9uYWwgZGVsZXRpb24&s=ZGViMDQ4Njc",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=aW50ZW50aW9uYWwgZGVsZXRpb24&s=ZGViMDQ4Njc&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "c\u1ed1 \u00fd",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170756,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 4,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "durability",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=ZHVyYWJpbGl0eQ&s=NjgxNGI2ZjI",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=ZHVyYWJpbGl0eQ&s=NjgxNGI2ZjI&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "t\u00ednh b\u1ec1n, t\u00ednh l\u00e2u b\u1ec1n",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170757,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 5,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "compliance",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=Y29tcGxpYW5jZQ&s=N2M5MWFmZjE",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=Y29tcGxpYW5jZQ&s=N2M5MWFmZjE&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "s\u1ef1 tu\u00e2n th\u1ee7",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170758,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 6,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "intensive",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=aW50ZW5zaXZl&s=MjFhZGUxNDM",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=aW50ZW5zaXZl&s=MjFhZGUxNDM&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "t\u1eadp trung, chuy\u00ean s\u00e2u",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170759,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 7,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "consistent",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=Y29uc2lzdGVudA&s=YjViYjA2OWQ",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=Y29uc2lzdGVudA&s=YjViYjA2OWQ&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "Ki\u00ean \u0111\u1ecbnh, nh\u1ea5t qu\u00e1n",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170760,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 8,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "immutable",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=aW1tdXRhYmxl&s=NDA1ZjI4MDE",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=aW1tdXRhYmxl&s=NDA1ZjI4MDE&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "kh\u00f4ng th\u1ec3 thay \u0111\u1ed5i",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170761,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 9,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "compliance",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=Y29tcGxpYW5jZQ&s=N2M5MWFmZjE",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=Y29tcGxpYW5jZQ&s=N2M5MWFmZjE&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "s\u1ef1 tu\u00e2n th\u1ee7",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170762,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 10,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "portion",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=cG9ydGlvbg&s=MDk4N2JlZDQ",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=cG9ydGlvbg&s=MDk4N2JlZDQ&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "(n) ph\u1ea7n, \u0111o\u1ea1n, kh\u00fac",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170763,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 11,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "ephemeral",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=ZXBoZW1lcmFs&s=ZDJlYTg2MGU",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=ZXBoZW1lcmFs&s=ZDJlYTg2MGU&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "(a) quick and fading, tho\u1ea3ng qua, fleeting",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170764,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 12,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "magnetic field",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=bWFnbmV0aWMgZmllbGQ&s=ZmIxODhkYWQ",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=bWFnbmV0aWMgZmllbGQ&s=ZmIxODhkYWQ&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "t\u1eeb tr\u01b0\u1eddng",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170765,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 13,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "steady",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=c3RlYWR5&s=NjNkNzY2MmY",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=c3RlYWR5&s=NjNkNzY2MmY&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "adj. /'stedi/ v\u1eefng ch\u1eafc, v\u1eefng v\u00e0ng, ki\u1ebfn \u0111\u1ecbnh",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170766,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 14,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "penalty",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=cGVuYWx0eQ&s=ZmQ5YTNjZTg",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=cGVuYWx0eQ&s=ZmQ5YTNjZTg&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "(n) h\u00ecnh ph\u1ea1t, kho\u1ea3n ti\u1ec1n ph\u1ea1t\neg: Anyone who pays less than they should in taxes will face a _____.",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170767,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 15,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "catastrophic",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=Y2F0YXN0cm9waGlj&s=YjlkNTMzNDQ",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=Y2F0YXN0cm9waGlj&s=YjlkNTMzNDQ&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "th\u1ea3m kh\u1ed1c, th\u00ea th\u1ea3m",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170768,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 16,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "drain it",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=ZHJhaW4gaXQ&s=Njg4YTNhZGU",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=ZHJhaW4gaXQ&s=Njg4YTNhZGU&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "r\u00fat b\u1edbt",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170769,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 17,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "implicit",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=aW1wbGljaXQ&s=ODJjMzc5YWE",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=aW1wbGljaXQ&s=ODJjMzc5YWE&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "(adj) ng\u1ea5m, ng\u1ea5m ng\u1ea7m, \u1ea9n t\u00e0ng\n- ho\u00e0n to\u00e0n tuy\u1ec7t \u0111\u1ed1i",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170770,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 18,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "redundant",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=cmVkdW5kYW50&s=MjZhMTI2MjI",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=cmVkdW5kYW50&s=MjZhMTI2MjI&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "d\u01b0 th\u1eeba, b\u1ecb sa th\u1ea3i",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170771,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 19,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "standby",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=c3RhbmRieQ&s=ZTgzOWQxZTI",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=c3RhbmRieQ&s=ZTgzOWQxZTI&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "d\u1ef1 ph\u00f2ng",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170772,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 20,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "trigger",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=dHJpZ2dlcg&s=ZmFmY2FiNDY",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=dHJpZ2dlcg&s=ZmFmY2FiNDY&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "k\u00edch ho\u1ea1t",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170773,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 21,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "in-house applications",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=aW4taG91c2UgYXBwbGljYXRpb25z&s=ZDlkZjdhY2Q",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=aW4taG91c2UgYXBwbGljYXRpb25z&s=ZDlkZjdhY2Q&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "\u1ee9ng d\u1ee5ng n\u1ed9i b\u1ed9",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170774,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 22,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "enforce",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=ZW5mb3JjZQ&s=MGIyYWNkMTI",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=ZW5mb3JjZQ&s=MGIyYWNkMTI&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "(v) b\u1eaft tu\u00e2n th\u1ee7, thi h\u00e0nh",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170775,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 23,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "compliance guidelines",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=Y29tcGxpYW5jZSBndWlkZWxpbmVz&s=NGIxMmVkYzU",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=Y29tcGxpYW5jZSBndWlkZWxpbmVz&s=NGIxMmVkYzU&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "tu\u00e2n th\u1ee7 h\u01b0\u1edbng d\u1eabn s\u1eed d\u1ee5ng",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170776,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 24,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "fault-tolerant architecture",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=ZmF1bHQtdG9sZXJhbnQgYXJjaGl0ZWN0dXJl&s=NjA0ZjczMzA",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=ZmF1bHQtdG9sZXJhbnQgYXJjaGl0ZWN0dXJl&s=NjA0ZjczMzA&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "ki\u1ebfn tr\u00fac ch\u1ecbu l\u1ed7i",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170777,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 25,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "due to",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=ZHVlIHRv&s=MTE0ZDEyZTI",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=ZHVlIHRv&s=MTE0ZDEyZTI&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "(prep) b\u1edfi v\u00ec, do\neg: _____ the low interest rates, good office space is difficult to find.",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170778,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 26,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "sufficient time",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=c3VmZmljaWVudCB0aW1l&s=MDlhZTU2NGY",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=c3VmZmljaWVudCB0aW1l&s=MDlhZTU2NGY&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "\u0111\u1ee7 th\u1eddi gian",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170779,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 27,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "involved",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=aW52b2x2ZWQ&s=YWY4MGJkZWQ",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=aW52b2x2ZWQ&s=YWY4MGJkZWQ&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "tham gia",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170780,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 28,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "considerable time",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=Y29uc2lkZXJhYmxlIHRpbWU&s=MmVhMDRjMmY",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=Y29uc2lkZXJhYmxlIHRpbWU&s=MmVhMDRjMmY&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "th\u1eddi gian \u0111\u00e1ng k\u1ec3",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170781,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 29,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "scenario",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=c2NlbmFyaW8&s=MmE0YWEzMGI",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=c2NlbmFyaW8&s=MmE0YWEzMGI&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "vi\u1ec5n c\u1ea3nh",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170782,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 30,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "granted",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=Z3JhbnRlZA&s=MzljMzM3OGQ",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=Z3JhbnRlZA&s=MzljMzM3OGQ&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "\u0111\u01b0\u1ee3c c\u1ea5p",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170783,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 31,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "naval defense",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=bmF2YWwgZGVmZW5zZQ&s=OWJkMjExMTU",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=bmF2YWwgZGVmZW5zZQ&s=OWJkMjExMTU&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "ph\u00f2ng th\u1ee7 h\u1ea3i qu\u00e2n",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170784,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 32,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "submarines",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=c3VibWFyaW5lcw&s=ZTYxNjY1ZjA",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=c3VibWFyaW5lcw&s=ZTYxNjY1ZjA&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "t\u00e0u ng\u1ea7m",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          },
+          {
+            "id": 1805732212170785,
+            "studiableContainerType": 1,
+            "studiableContainerId": 930619100,
+            "type": 2,
+            "rank": 33,
+            "creatorId": 353586321,
+            "timestamp": 1722080433,
+            "lastModified": 1722080433,
+            "isDeleted": false,
+            "cardSides": [
+              {
+                "sideId": 0,
+                "label": "word",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "warships",
+                    "languageCode": "en",
+                    "ttsUrl": "/v1/tts/en.mp3?v=1&b=d2Fyc2hpcHM&s=ZjFjMGU3ZGI",
+                    "ttsSlowUrl": "/v1/tts/en.mp3?v=1&b=d2Fyc2hpcHM&s=ZjFjMGU3ZGI&speed=70",
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              },
+              {
+                "sideId": 1,
+                "label": "definition",
+                "media": [
+                  {
+                    "type": 1,
+                    "plainText": "t\u00e0u chi\u1ebfn",
+                    "languageCode": "vi",
+                    "ttsUrl": null,
+                    "ttsSlowUrl": null,
+                    "richText": null
+                  }
+                ],
+                "distractors": []
+              }
+            ]
+          }
+        ]
+      },
+      "paging": {
+        "total": 34,
+        "page": 1,
+        "perPage": 500,
+        "token": "sDcJjuT4C6.zGMX5kxpqNn25x3wY"
+      }
+    }
+  ]
+}
